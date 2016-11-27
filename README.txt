@@ -4,3 +4,4 @@
  Added fourth line
 
  Add line after tag created and pushed to remote
+Added Feature2
