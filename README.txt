@@ -3,6 +3,7 @@ Feature1 add
 
  Hello, Git
  Add second line
+<<<<<<< HEAD
  Updating README with new information
  Added fourth line
 
@@ -12,3 +13,6 @@ feature:sq
 
 :wqa
 
+=======
+ Another fix to Bug#1234
+>>>>>>> Really fixed  bug#1234
