@@ -1,0 +1,21 @@
+
+<project name="javademo" default="init">
+
+
+<target name="clean">
+	<delete dir="build"/>
+	<delete dir="dist"/>
+</target>
+
+<target name="init" depends="clean">
+
+	<mkdir dir="dist"/>
+	<mkdir dir="build"/>
+	<mkdir dir="build/classes"/>
+	<mkdir dir="build/jar"/>
+	<mkdir dir="build/web"/>
+	<mkdir dir="build/test/classes"/>
+	<mkdir dir="build/junit"/>
+
+</target>
+</project>
