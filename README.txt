@@ -1,9 +1,7 @@
-<<<<<<< HEAD
 Feature1 add 
 
  Hello, Git
  Add second line
-<<<<<<< HEAD
  Updating README with new information
  Added fourth line
 
@@ -11,9 +9,6 @@ Feature1 add
 Added Feature2
 feature:sq
 
-:wqa
 
-=======
  Another fix to Bug#1234
->>>>>>> Really fixed  bug#1234
 gud morning Lakshith
